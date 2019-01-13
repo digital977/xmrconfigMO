@@ -22,7 +22,7 @@
     "max-cpu-usage": 98,
     "pools": [
         {
-            "url": "gulf.moneroocean.stream:10002",
+            "url": "gulf.moneroocean.stream:10001",
             "user": "43ynfNWginKY8Lm2wiEEsi6fgmaA5Ktp21Vp1ETzTrh65GrYkweM1wJbe9ftybUrSPjWDx8ytUZwJH2pvgM8WPZxH5k3vDg",
             "pass": "MoneroOcean",
             "rig-id": null,
