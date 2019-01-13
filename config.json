@@ -22,9 +22,9 @@
     "max-cpu-usage": 98,
     "pools": [
         {
-            "url": "pool.supportxmr.com:3333",
-            "user": "46iYJiwnuMyBQhVLUm7xXmDGD3cHrwanWKwi9oAxFUbe5DfqDzijvGF4r87atVkBb4WHoto1xhb3AjkryTcnz1tC38CvcG3",
-            "pass": "digital977github",
+            "url": "gulf.moneroocean.stream:10002",
+            "user": "43ynfNWginKY8Lm2wiEEsi6fgmaA5Ktp21Vp1ETzTrh65GrYkweM1wJbe9ftybUrSPjWDx8ytUZwJH2pvgM8WPZxH5k3vDg",
+            "pass": "wwwq1@mail.bg",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
